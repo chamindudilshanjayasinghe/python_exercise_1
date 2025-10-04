@@ -1,5 +1,5 @@
-# Lab 2 – Python Programming (GIK29B)  
-Dalarna University – Python- and R-programming (7.5 Credits)  
+# Lab Exercise – Python Programming
+Python- and R-programming (7.5 Credits)  
 
 ## 📌 Overview  
 This repository contains my solutions for **Lab 2** of the course.  
@@ -58,14 +58,3 @@ Accepts five test scores, displays a **letter grade** for each, and calculates t
    ```bash
    git clone https://github.com/<your-username>/lab2-python.git
    cd lab2-python
-
-lab2-python/
-│
-├── exercise1_dvd_points.py
-├── exercise2_bmi.py
-├── exercise3_property_tax.py
-├── exercise4_max_value.py
-├── exercise5_test_grades.py
-│
-├── report.pdf   # Reflection report (max 1 A4 page)
-└── README.md    # This file
